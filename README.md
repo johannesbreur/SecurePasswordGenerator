@@ -35,7 +35,8 @@ A lightweight **desktop password generator** built with **Python** and **Tkinter
 - No third-party dependencies (uses Python standard library + Tkinter)
 
 ## Run Locally
-1. Clone the repo:
+Clone the repo:
    ```bash
 git clone https://github.com/johannesbreur/SecurePasswordGenerator.git
+
 cd SecurePasswordGenerator
