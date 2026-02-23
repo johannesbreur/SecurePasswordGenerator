@@ -38,4 +38,4 @@ A lightweight **desktop password generator** built with **Python** and **Tkinter
 1. Clone the repo:
    ```bash
 git clone https://github.com/johannesbreur/SecurePasswordGenerator.git
-   cd SecurePasswordGenerator
+cd SecurePasswordGenerator
